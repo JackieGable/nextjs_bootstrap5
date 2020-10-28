@@ -27,6 +27,10 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 Added support to [Bootstrap v5](https://v5.getbootstrap.com/) alpha 2.
 
+## Bootstrap icons
+
+react-bootstrap-icons
+
 ## Sass Support
 
 Added support to use scss and sass files.
